@@ -33,3 +33,4 @@ Classes
 .footer1
 
 https://davidsjg.github.io/Device-Responsiveness-Portfolio/
+https://github.com/davidsjg/Device-Responsiveness-Portfolio
